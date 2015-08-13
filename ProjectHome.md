@@ -1,0 +1,2 @@
+Java 5 to Python converter - a draft. See also
+http://debedb.blogspot.com/2007/03/java-to-python-converter.html about why this is not http://code.google.com/p/java2python/. Feel free to take it and adopt or whatever.
